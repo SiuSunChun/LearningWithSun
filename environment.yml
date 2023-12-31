@@ -2,9 +2,6 @@ name: Rtrial
 channels:
   - conda-forge
 dependencies:
-  - r-base
-  - r-irkernel
-  - ipykernel
-  - pandas
-  - xarray
+  - numpy
+  - matplotlib
 prefix: /home/users/kchun/.conda/envs/Rtrial
